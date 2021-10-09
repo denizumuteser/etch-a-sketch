@@ -1,2 +1,2 @@
 # etch-a-sketch
-Etch a sketch game where you can paint and erase on a canvas
+Etch-a-sketch is a game where you can paint and erase on a canvas.
